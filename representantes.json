@@ -1,0 +1,47 @@
+[
+    {
+        "nombre": {
+            "nombre": "Roberto",
+            "appellidos": "Apple Banana"
+        },
+        "partido": "A",
+        "representacion": "Mayoría Relativa",
+        "distrito": 1,
+        "municipio": "Monterrey",
+        "telefono": {
+            "numero": 81509500,
+            "extension": 1051
+        },
+        "correo": "bab@cnl.gov"
+    },
+    {
+        "nombre": {
+            "nombre": "María",
+            "appellidos": "Pear"
+        },
+        "partido": "B",
+        "representacion": "Representación Proporcional",
+        "distrito": 2,
+        "municipio": "Apodaca",
+        "telefono": {
+            "numero": 81509500,
+            "extension": 1052
+        },
+        "correo": "mp@cnl.gov"
+    },
+    {
+        "nombre": {
+            "nombre": "Antionio",
+            "appellidos": "Peach Orange"
+        },
+        "partido": "C",
+        "representacion": "Representación Proporcional",
+        "distrito": 2,
+        "municipio": "San Nicolás de los Garza",
+        "telefono": {
+            "numero": 81509500,
+            "extension": 1053
+        },
+        "correo": "apo@cnl.gov"
+    }
+]
