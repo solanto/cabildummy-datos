@@ -2,7 +2,7 @@
     {
         "nombre": {
             "nombre": "Roberto",
-            "appellidos": "Apple Banana"
+            "apellidos": "Apple Banana"
         },
         "partido": "A",
         "representacion": "Mayoría Relativa",
@@ -17,7 +17,7 @@
     {
         "nombre": {
             "nombre": "María",
-            "appellidos": "Pear"
+            "apellidos": "Pear"
         },
         "partido": "B",
         "representacion": "Representación Proporcional",
@@ -32,7 +32,7 @@
     {
         "nombre": {
             "nombre": "Antionio",
-            "appellidos": "Peach Orange"
+            "apellidos": "Peach Orange"
         },
         "partido": "C",
         "representacion": "Representación Proporcional",
