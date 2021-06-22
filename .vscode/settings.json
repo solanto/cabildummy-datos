@@ -1,0 +1,10 @@
+{
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "/diputados.json"
+            ],
+            "url": "https://raw.githubusercontent.com/solanto/cabildeo-schema/master/diputados.json"
+        }
+    ]
+}

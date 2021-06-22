@@ -1,0 +1,27 @@
+[
+    {
+        "nombre": {
+            "nombre": "Roberto",
+            "apellidos": "Apple"
+        },
+        "telefono": "0123456789",
+        "comisiones": [
+            "Primera",
+            "Segunda"
+        ],
+        "distrito": "A",
+        "partido": "XYZ"
+    },
+    {
+        "nombre": {
+            "nombre": "María",
+            "apellidos": "Peach Pear"
+        },
+        "telefono": "9876543210",
+        "comisiones": [
+            "Única"
+        ],
+        "distrito": "B",
+        "partido": "HEY"
+    }
+]
