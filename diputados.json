@@ -4,7 +4,7 @@
             "nombre": "Roberto",
             "apellidos": "Apple"
         },
-        "telefono": "0123456789",
+        "telefono": "tel:+520123456789",
         "comisiones": [
             "Primera",
             "Segunda"
@@ -17,7 +17,7 @@
             "nombre": "María",
             "apellidos": "Peach Pear"
         },
-        "telefono": "9876543210p44",
+        "telefono": "tel:+529876543210;ext=44",
         "comisiones": [
             "Única"
         ],
