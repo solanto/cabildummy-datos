@@ -4,13 +4,16 @@
             "nombre": "Roberto",
             "apellidos": "Apple"
         },
-        "telefono": "tel:+520123456789",
         "comisiones": [
             "Primera",
             "Segunda"
         ],
         "distrito": "A",
-        "partido": "XYZ"
+        "partido": "XYZ",
+        "contacto": {
+            "telefono": "tel:+520123456789",
+            "correoElectronico": "rapple@nl.gob.mx"
+        }
     },
     {
         "nombre": {
@@ -22,6 +25,11 @@
             "Única"
         ],
         "distrito": "B",
-        "partido": "HEY"
+        "partido": "HEY",
+        "contacto": {
+            "telefono": "tel:+529876543210;ext=44",
+            "correoElectronico": "mpeachpear@nl.gob.mx",
+            "twitter": "TwitterRetweets"
+        }
     }
 ]
