@@ -1,0 +1,31 @@
+[
+    {
+        "expediente": {
+            "congreso": 10,
+            "documento": 15
+        },
+        "votacion": {
+            "abstenido": 2,
+            "aFavor": 35,
+            "ausente": 1,
+            "enContra": 4
+        },
+        "asunto": "Un asunto.",
+        "fecha": {
+            "iniciada": "2021-02-14",
+            "radicada": "2021-04-01"
+        }
+    },
+    {
+        "expediente": {
+            "congreso": 11,
+            "documento": 21
+        },
+        "votacion": {},
+        "asunto": "Otro asunto.",
+        "fecha": {
+            "iniciada": "2021-06-26",
+            "radicada": "2021-07-26"
+        }
+    }
+]
