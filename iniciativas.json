@@ -5,10 +5,20 @@
             "documento": 15
         },
         "votacion": {
-            "abstenido": 2,
-            "aFavor": 35,
-            "ausente": 1,
-            "enContra": 4
+            "abstenido": [],
+            "aFavor": [
+                {
+                    "nombre": "Roberto",
+                    "apellidos": "Apple"
+                }
+            ],
+            "ausente": [],
+            "enContra": [
+                {
+                    "nombre": "Maria",
+                    "apellidos": "Peach Pear"
+                }
+            ]
         },
         "asunto": "Un asunto.",
         "fecha": {
